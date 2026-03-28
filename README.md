@@ -20,11 +20,60 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 
 ### 4. Manipulação de Arquivos e Strings
 - **I/O e Tratamento de Encodings:** Leitura e escrita sistêmica de arquivos de texto, e correção de problemas ou corrupção de enconding (`arquivoUTF-8.py`, `arquivoChardet.py`).
+  
 - **Formatação de Dados:** Apresentação amigável e conversões de interface de dados no console para maior legibilidade (`AtvFormat.py`).
 
-### 5. Banco de Dados e Aplicações Reais
-- **Banco de Dados Relacional e CRUD:** Integração prática de scripts em linguagem Python com bancos de dados na execução de grandes operações de Create, Read, Update e Delete (`projetoSQL_crudPython.py`, `projetoCRUD_Food_truck.py`).
-- **Aplicações e Projetos Interativos:** Criação de lógicas mais pesadas como interface para sorteios simulando jogos (`cacaNiquel`).
+
+### 🗂️ Organização das Pastas
+
+📁 **Arquivos** | Manipulação de arquivos:
+
+- Leitura (read);
+- Escrita (write);
+- Boas práticas com arquivos;
+
+📁 **Condicionais**  | Focado em estruturas de decisão
+
+- if, elif, else
+- Operadores lógicos
+- Tomada de decisão
+- 
+📁 **Dicionarios** | Estruturas de dados do tipo chave-valor:
+
+- Criação e manipulação
+- Métodos úteis
+- Aplicações práticas
+
+📁 **Funções** | Organização e reutilização de código:
+
+- Definição de funções
+- Parâmetros e retorno
+- Boas práticas
+
+📁 **Fundamentos** | Contém os conceitos básicos da linguagem Python:
+
+- Variáveis
+- Tipos de dados
+- Operações básicas
+  
+📁 **Listas** | Manipulação de listas:
+
+- Criação e acesso
+- Métodos de lista
+- Iteração
+  
+📁 **POO (Programação Orientada a Objetos)** |  Conceitos mais avançados:
+
+- Classes e objetos
+- Encapsulamento
+- Herança e polimorfismo
+
+📁 **Repetições** | Trabalha com estruturas de repetição:
+
+- for, while
+- Controle de loops
+
+📄 README.md
 
 ## 🚀 Como executar os projetos
 
