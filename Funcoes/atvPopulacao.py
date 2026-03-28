@@ -1,4 +1,4 @@
-# Analisa sob métricas lógicas dos blocos For/While o ponto exato onde ambas as populações igualarão as grandezas populacionais e quantitativas matemáticas.
+# funcao que calcula o tempo para um país ultrapassar o outro em população
 def calcular_populacao(taxaA, paisA, taxaB, paisB):
     contadorAnual = 1
     while paisA < paisB:

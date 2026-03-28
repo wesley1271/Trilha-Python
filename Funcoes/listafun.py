@@ -1,4 +1,4 @@
-# Move blocos literais tirando-os dinamicamente na apresentação linear formatando simulacros em redes instantâneas comunicacionais efêmeras.
+# Função para exibir mensagens formatadas
 def mensage(mensagens):
     for mensagem in mensagens:
         msg = (mensagem.title())

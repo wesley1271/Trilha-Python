@@ -1,4 +1,4 @@
-# Permite personalizar virtualmente a largura exata e logotipos estéticos em descrições parametrizadas.
+# Função para criar camisetas personalizadas
 def criar_camiseta(tamanho="G", estampa="No pain, No gain"):
     """Definir estampa e tamanho da camiseta"""
     print(f"O tamanho da sua camiseta é: {tamanho}")

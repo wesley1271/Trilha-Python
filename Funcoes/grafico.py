@@ -1,4 +1,4 @@
-# Constrói com a biblioteca matemática Mathplotlib diagramações de linha e eixos (x/y) medindo carga e consumo de eletrônicos baseados na voltagem ou tempo (s).
+# funcao que gera grafico de linha 
 import numpy as np
 import matplotlib.pyplot as plt
 

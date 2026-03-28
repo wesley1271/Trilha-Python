@@ -1,4 +1,4 @@
-# Preenche as informações musicais de seus autores em registros para criar álbuns usando funções.
+# Função para criar um dicionário de álbuns musicais
 def album(nome_album, nome_artista, num_faixas=None):
     """Dicionario contendo informações de artistas e albuns"""
     album_dic = {'nome': nome_album, 'artista': nome_artista}
