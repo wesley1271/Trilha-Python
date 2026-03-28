@@ -34,7 +34,7 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Escrita (write);
 - Boas práticas com arquivos;
 
---
+<hr width="50%">
 
 📁 **Condicionais**  | Focado em estruturas de decisão
 
@@ -42,7 +42,7 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Operadores lógicos
 - Tomada de decisão
 
-  --
+<hr width="50%">
   
 📁 **Dicionarios** | Estruturas de dados do tipo chave-valor:
 
@@ -50,7 +50,7 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Métodos úteis
 - Aplicações práticas
 
---
+<hr width="50%">
 
 📁 **Funções** | Organização e reutilização de código:
 
@@ -58,7 +58,7 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Parâmetros e retorno
 - Boas práticas
 
-  --
+  <hr width="50%">
   
 📁 **Fundamentos** | Contém os conceitos básicos da linguagem Python:
 
@@ -66,7 +66,7 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Tipos de dados
 - Operações básicas
 
-  --
+  <hr width="50%">
   
 📁 **Listas** | Manipulação de listas:
 
@@ -74,7 +74,7 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Métodos de lista
 - Iteração
 
---
+<hr width="50%">
 
 📁 **POO (Programação Orientada a Objetos)** |  Conceitos mais avançados:
 
@@ -82,14 +82,15 @@ Através destas atividades, consolidei diversos conceitos fundamentais e avança
 - Encapsulamento
 - Herança e polimorfismo
 
---
+<hr width="50%">
 
 📁 **Repetições** | Trabalha com estruturas de repetição:
 
 - for, while
 - Controle de loops
 
---
+<hr width="50%">
+
 📄 README.md
 
 ---
